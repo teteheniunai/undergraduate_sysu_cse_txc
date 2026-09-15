@@ -1,0 +1,3 @@
+Too small image: cnn图片\train\dangshen\dangshen_131.jpg | 50x50
+Too small image: cnn图片\train\dangshen\dangshen_16.jpg | 50x50
+Too small image: cnn图片\train\dangshen\dangshen_20.jpg | 50x50
